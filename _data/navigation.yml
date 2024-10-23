@@ -17,6 +17,8 @@ main:
   - title: "CV"
     url:  /files/Mori_CV.pdf
 
+  - title: "Research"
+    url: /research/
   #- title: "Other"
   #  url: /Other/
     
