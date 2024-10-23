@@ -19,8 +19,11 @@ main:
 
   - title: "Research"
     url: /research/
+
+  - title: "Vesuvius Challenge"
+    url: /vesuvius_challenge/
   #- title: "Other"
   #  url: /Other/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/

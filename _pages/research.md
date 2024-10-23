@@ -27,9 +27,6 @@ I am interested in how animals use multimodal sensory information to navigate co
 
 I explored the control mechanisms in active matter systems using viscoelastic confinement techniques. 
 
-![Active Matter](/images/SchemeNew.jpng)
+![Active Matter](/images/SchemeNew.jpg)
 
 ---
-
-
-
