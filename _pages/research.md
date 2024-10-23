@@ -11,7 +11,7 @@ layout: page
 
 I develop optimal training protocols that minimize catastrophic forgetting in continual learning scenarios. 
 
-![Continual Learning](images/loss_comparison.jpg)
+![Continual Learning](/images/loss_comparison.jpg)
 
 ---
 
@@ -19,7 +19,7 @@ I develop optimal training protocols that minimize catastrophic forgetting in co
 
 I am interested in how animals use multimodal sensory information to navigate complex environments. 
 
-![Animal Navigation](images/fig_new_scale.jpg)
+![Animal Navigation](/images/fig_new_scale.jpg)
 
 ---
 
@@ -27,7 +27,7 @@ I am interested in how animals use multimodal sensory information to navigate co
 
 I explored the control mechanisms in active matter systems using viscoelastic confinement techniques. 
 
-![Active Matter](images/SchemeNew.jpg)
+![Active Matter](/images/SchemeNew.jpg)
 
 ---
 
