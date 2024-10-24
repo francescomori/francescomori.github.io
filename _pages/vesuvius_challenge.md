@@ -1,7 +1,7 @@
 ---
 permalink: /other/
 author_profile: true
-title="Other"
+title:"Other"
 ---
 
 ## Vesuvius Challenge
