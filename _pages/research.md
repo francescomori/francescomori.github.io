@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /research
 title: "Research"
 layout: page
 
@@ -20,7 +20,6 @@ To bypass the curse of dimensionality, in my work, I use dimensionality reductio
 
 [Optimal Protocols for Continual Learning via Statistical Physics and Control Theory, **F. Mori**, S. Sarao Mannelli, and F. Mignacco,  preprint arXiv:2409.18061 (2024)](https://arxiv.org/abs/2409.18061)
 
-<img src="/images/loss_comparison.jpg" alt="Continual Learning" width="500"/>
 
 ---
 
@@ -32,7 +31,6 @@ In collaboration with Prof. Mahadevan (Harvard), we applied this question to the
 
 [Viscoelastic confinement induces periodic flow reversals in active nematics, **F. Mori**, S. Bhattacharyya, J. M. Yeomans, S. P. Thampi,  Phys. Rev. E 108, 6 (2023)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611)
 
-<img src="/images/fig_new_scale.jpg" alt="Animal Navigation" width="500"/>
 
 ---
 
@@ -44,7 +42,6 @@ In my work, I explored the control mechanisms in active matter systems by tuning
 
 [Optimal switching strategies for navigation in stochastic settings, **F. Mori** and L. Mahadevan,  preprint arXiv:2311.18813 (2023)](https://arxiv.org/abs/2311.18813)
 
-<img src="/images/SchemeNew.jpg" alt="Active Matter" width="500"/>
 
 ---
 
@@ -56,4 +53,3 @@ In my research on the stochastic thermodynamics of low-dimensional systems, I de
 
 [Entropy production of resetting processes, **F. Mori**, K. S. Olsen, and S. Krishnamurthy, Phys. Rev. Research 5, 023103 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.023103)
 
-<img src="/images/trajectory_page.jpg" alt="Active Matter" width="500"/>
