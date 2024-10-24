@@ -12,6 +12,8 @@ My current research spans nonequilibrium physics, active matter, animal navigati
 
 Beyond the classical forward approach, I also address _inverse problems_, exploring questions like: What is the optimal navigation strategy for an animal in a noisy environment? How can we manipulate the mechanical properties of an environment to determine the dynamical state of an active system? What are optimal protocols to efficiently train an artificial neural network? To answer these questions, I combine techniques such as dimensionality reduction and path-integral methods with optimal control theory. Below, I present some of these ideas.
 
+---
+
 
 ## Optimal Learning in Neural Networks
 
@@ -21,8 +23,12 @@ To bypass the curse of dimensionality, in my work, I use dimensionality reductio
 
 [ **F. Mori**, S. Sarao Mannelli, and F. Mignacco, Optimal Protocols for Continual Learning via Statistical Physics and Control Theory,  preprint arXiv:2409.18061 (2024)](https://arxiv.org/abs/2409.18061)
 
+---
+
 <img src="/images/loss_comparison.jpg" alt="Continual Learning" width="500"/>
 
+
+---
 
 ## Multimodal Animal Navigation
 
@@ -32,8 +38,13 @@ In collaboration with Prof. Mahadevan (Harvard), we applied this question to the
 
 [**F. Mori** and L. Mahadevan, Optimal switching strategies for navigation in stochastic settings, preprint arXiv:2311.18813 (2023)](https://arxiv.org/abs/2311.18813)
 
+
+---
+
 <img src="/images/fig_new_scale.jpg" alt="Animal Navigation" width="500"/>
 
+
+---
 
 ## Control of Active Materials
 
