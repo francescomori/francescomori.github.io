@@ -25,8 +25,7 @@ To bypass the curse of dimensionality, in my work, I use dimensionality reductio
 
 ---
 
-<img src="/images/loss_comparison.jpg" alt="Continual Learning" width="500"/>
-
+<img src="/images/loss_comparison.jpg" alt="Continual Learning" width="500 " style="margin-bottom: 20px;/>
 
 ---
 
@@ -41,7 +40,7 @@ In collaboration with Prof. Mahadevan (Harvard), we applied this question to the
 
 ---
 
-<img src="/images/fig_new_scale.jpg" alt="Animal Navigation" width="500"/>
+<img src="/images/fig_new_scale.jpg" alt="Animal Navigation" width="500" style="margin-bottom: 20px;"/>
 
 
 ---
@@ -54,7 +53,13 @@ In my work, I explored the control mechanisms in active matter systems by tuning
 
 [**F. Mori**, S. Bhattacharyya, J. M. Yeomans, S. P. Thampi, Viscoelastic confinement induces periodic flow reversals in active nematics, Phys. Rev. E 108, 6 (2023)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611)
 
-<img src="/images/SchemeNew.jpg" alt="Active Matter" width="500"/>
+
+---
+
+<img src="/images/SchemeNew.jpg" alt="Active Matter" width="500" style="margin-bottom: 20px;"/>
+
+
+---
 
 
 ## Stochastic Thermodynamics
@@ -65,4 +70,8 @@ In my research on the stochastic thermodynamics of low-dimensional systems, I de
 
 [**F. Mori**, K. S. Olsen, and S. Krishnamurthy, Entropy production of resetting processes, Phys. Rev. Research 5, 023103 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.023103)
 
-<img src="/images/trajectory_page.jpg" alt="Active Matter" width="500"/>
+---
+
+<img src="/images/trajectory_page.jpg" alt="Active Matter" width="500" style="margin-bottom: 20px;"/>
+
+---
