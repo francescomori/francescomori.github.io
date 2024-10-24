@@ -4,7 +4,9 @@ title: "Research"
 layout: page
 ---
 
-<div style="margin: 40px;">
+.example {
+    padding: 40px;
+}
 
 # Research interests
 
@@ -61,4 +63,3 @@ In my research on the stochastic thermodynamics of low-dimensional systems, I de
 <img src="/images/trajectory_page.jpg" alt="Active Matter" width="500"/>
 
 
-</div>
