@@ -20,10 +20,9 @@ main:
   - title: "CV"
     url:  /files/Mori_CV.pdf
 
-
   - title: "Other"
     url: /other/
-    
+
   #- title: "Other"
   #  url: /Other/
     

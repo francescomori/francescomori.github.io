@@ -1,6 +1,5 @@
 ---
 permalink: /other/
-title:"Other"
 author_profile: true
 ---
 
@@ -13,7 +12,6 @@ As part of my work on this project, I am applying techniques from **Statistical 
 If you’re interested in the technical details of my contribution, you can explore my work on [GitHub](https://github.com/francescomori/ThaumatoAnakalyptor/tree/main/ThaumatoAnakalyptor/BP_node_deactivation).
 
 Learn more about the broader challenge on the [Vesuvius Challenge website](https://scrollprize.org).
-
 
 
 <img src="/images/vesuvius.jpg" alt="Vesuvius" width="500"/>
