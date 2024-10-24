@@ -7,7 +7,7 @@ layout: page
 # Research interests
 
 
-My current research spans nonequilibrium physics, optimal control theory, animal navigation, and machine learning. In my work, I use tools from statistical physics, nonlinear dynamics, and stochastic processes to tackle _forward problems_, predicting emergent dynamical states from microscopic rules. In particular, I have identified phase transitions in minimal nonequilibrium models, dynamical instabilities in active matter, and universal properties of active particles.
+My current research spans nonequilibrium physics, active matter, animal navigation, and machine learning. In my work, I use tools from statistical physics, nonlinear dynamics, and stochastic processes to tackle _forward problems_, predicting emergent dynamical states from microscopic rules. In particular, I have identified phase transitions in minimal nonequilibrium models, dynamical instabilities in active matter, and universal properties of active particles.
 
 Beyond the classical forward approach, I also address _inverse problems_, exploring questions like: What is the optimal navigation strategy for an animal in a noisy environment? How can we manipulate the mechanical properties of an environment to determine the dynamical state of an active system? What is the optimal protocol to efficiently train an artificial neural network? To answer these questions, I combine techniques such as dimensionality reduction and path-integral methods with optimal control theory. Below, I present some of these ideas.
 
