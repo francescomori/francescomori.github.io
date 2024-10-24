@@ -1,6 +1,5 @@
 ---
 permalink: /other/
-title: "Vesuvius Challenge"
 author_profile: true
 ---
 

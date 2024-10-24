@@ -1,12 +1,9 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research Interests"
 author_profile: true
 ---
 
-
-
-# Research interests
 
 My current research spans nonequilibrium physics, active matter, animal navigation, and machine learning. In my work, I use tools from statistical physics, nonlinear dynamics, and stochastic processes to tackle _forward problems_, predicting emergent dynamical states from microscopic rules. In particular, I have identified phase transitions in minimal nonequilibrium models, dynamical instabilities in active matter, and universal properties of active particles.
 
