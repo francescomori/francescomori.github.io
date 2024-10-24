@@ -18,9 +18,9 @@ In machine learning, various optimization methods are introduced at different st
 
 To bypass the curse of dimensionality, in my work, I use dimensionality reduction techniques from statistical physics, identifying reduced (but exact!) description of the learning process where optimal control can be directly applied. We have recently applied this idea to the problem of _continual learning_, where a neural network has to learn and remember multiple tasks. Many more exciting applications are to come! 
 
-[Optimal Protocols for Continual Learning via Statistical Physics and Control Theory, **F. Mori**, S. Sarao Mannelli, and F. Mignacco,  preprint arXiv:2409.18061 (2024)](https://arxiv.org/abs/2409.18061)
+[ **F. Mori**, S. Sarao Mannelli, and F. Mignacco, Optimal Protocols for Continual Learning via Statistical Physics and Control Theory,  preprint arXiv:2409.18061 (2024)](https://arxiv.org/abs/2409.18061)
 
-
+<img src="/images/loss_comparison.jpg" alt="Continual Learning" width="500"/>
 
 
 ## Multimodal Animal Navigation
@@ -29,9 +29,10 @@ Similar challenges arise in biological systems, where animals and humans continu
 
 In collaboration with Prof. Mahadevan (Harvard), we applied this question to the well-studied rolling behavior of dung beetles (see video [here](https://www.youtube.com/watch?v=w1XL711elDA)), which use different sensory cues to orient. By modeling optimal switching strategies, we found that noisier environments favor more frequent reorientations, a finding that may generalize to other multi-modal navigation systems.
 
-[Viscoelastic confinement induces periodic flow reversals in active nematics, **F. Mori**, S. Bhattacharyya, J. M. Yeomans, S. P. Thampi,  Phys. Rev. E 108, 6 (2023)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611)
+[**F. Mori**, S. Bhattacharyya, J. M. Yeomans, S. P. Thampi, Viscoelastic confinement induces periodic flow reversals in active nematics, Phys. Rev. E 108, 6 (2023)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611)
 
 
+<img src="/images/fig_new_scale.jpg" alt="Animal Navigation" width="500"/>
 
 
 ## Control of Active Materials
@@ -40,9 +41,9 @@ _Active matter_ describes systems that are composed of units capable of converti
 
 In my work, I explored the control mechanisms in active matter systems by tuning the mechanical properties of the surrounding environments. In collaboration with the group of Prof. Yeomans (Oxford), we have shown that viscoelastic confinement produces coherent oscillations in active nematics. 
 
-[Optimal switching strategies for navigation in stochastic settings, **F. Mori** and L. Mahadevan,  preprint arXiv:2311.18813 (2023)](https://arxiv.org/abs/2311.18813)
+[**F. Mori** and L. Mahadevan, Optimal switching strategies for navigation in stochastic settings, preprint arXiv:2311.18813 (2023)](https://arxiv.org/abs/2311.18813)
 
-
+<img src="/images/SchemeNew.jpg" alt="Active Matter" width="500"/>
 
 
 ## Stochastic Thermodynamics
@@ -51,5 +52,6 @@ I am interested in quantifying irreversibility in nonequilibrium systems across 
 
 In my research on the stochastic thermodynamics of low-dimensional systems, I developed a path-decomposition method to derive the full distribution, including large deviations, of entropy production in a minimal model. This model involves a particle undergoing diffusion with intermittent restarts, and my work uncovered a nonequilibrium phase transition associated with rare trajectories that produce unusually high entropy.
 
-[Entropy production of resetting processes, **F. Mori**, K. S. Olsen, and S. Krishnamurthy, Phys. Rev. Research 5, 023103 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.023103)
+[**F. Mori**, K. S. Olsen, and S. Krishnamurthy, Entropy production of resetting processes, Phys. Rev. Research 5, 023103 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.023103)
 
+<img src="/images/trajectory_page.jpg" alt="Active Matter" width="500"/>
