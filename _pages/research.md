@@ -29,8 +29,7 @@ Similar challenges arise in biological systems, where animals and humans continu
 
 In collaboration with Prof. Mahadevan (Harvard), we applied this question to the well-studied rolling behavior of dung beetles (see video [here](https://www.youtube.com/watch?v=w1XL711elDA)), which use different sensory cues to orient. By modeling optimal switching strategies, we found that noisier environments favor more frequent reorientations, a finding that may generalize to other multi-modal navigation systems.
 
-[**F. Mori**, S. Bhattacharyya, J. M. Yeomans, S. P. Thampi, Viscoelastic confinement induces periodic flow reversals in active nematics, Phys. Rev. E 108, 6 (2023)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611)
-
+[**F. Mori** and L. Mahadevan, Optimal switching strategies for navigation in stochastic settings, preprint arXiv:2311.18813 (2023)](https://arxiv.org/abs/2311.18813)
 
 <img src="/images/fig_new_scale.jpg" alt="Animal Navigation" width="500"/>
 
@@ -41,7 +40,7 @@ _Active matter_ describes systems that are composed of units capable of converti
 
 In my work, I explored the control mechanisms in active matter systems by tuning the mechanical properties of the surrounding environments. In collaboration with the group of Prof. Yeomans (Oxford), we have shown that viscoelastic confinement produces coherent oscillations in active nematics. 
 
-[**F. Mori** and L. Mahadevan, Optimal switching strategies for navigation in stochastic settings, preprint arXiv:2311.18813 (2023)](https://arxiv.org/abs/2311.18813)
+[**F. Mori**, S. Bhattacharyya, J. M. Yeomans, S. P. Thampi, Viscoelastic confinement induces periodic flow reversals in active nematics, Phys. Rev. E 108, 6 (2023)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611)
 
 <img src="/images/SchemeNew.jpg" alt="Active Matter" width="500"/>
 
