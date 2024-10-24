@@ -3,7 +3,7 @@ permalink: /other/
 author_profile: true
 ---
 
-
+# Vesuvius Challenge
 
 The **Vesuvius Challenge** is an exciting project focused on deciphering the ancient Herculaneum scrolls that were buried during the eruption of Mount Vesuvius in 79 AD. These scrolls have remained unreadable for centuries. The challenge aims to unlock the texts using advanced scanning technologies and computational methods.
 
