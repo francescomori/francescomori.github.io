@@ -3,11 +3,7 @@ permalink: /research/
 title: "Research"
 layout: page
 ---
-
-.example {
-    padding: 40px;
-}
-
+<div style="margin-right: 30px;">
 # Research interests
 
 My current research spans nonequilibrium physics, active matter, animal navigation, and machine learning. In my work, I use tools from statistical physics, nonlinear dynamics, and stochastic processes to tackle _forward problems_, predicting emergent dynamical states from microscopic rules. In particular, I have identified phase transitions in minimal nonequilibrium models, dynamical instabilities in active matter, and universal properties of active particles.
@@ -62,4 +58,4 @@ In my research on the stochastic thermodynamics of low-dimensional systems, I de
 
 <img src="/images/trajectory_page.jpg" alt="Active Matter" width="500"/>
 
-
+</div>
