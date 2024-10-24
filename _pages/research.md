@@ -2,9 +2,9 @@
 permalink: /research/
 title: "Research"
 layout: page
+author_profile: true
 ---
 
-<div style="margin-right: 30px;">
 
 # Research interests
 
@@ -60,4 +60,4 @@ In my research on the stochastic thermodynamics of low-dimensional systems, I de
 
 <img src="/images/trajectory_page.jpg" alt="Active Matter" width="500"/>
 
-</div>
+
