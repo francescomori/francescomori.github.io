@@ -1,5 +1,5 @@
 ---
-permalink: /vesuvius_challenge/
+permalink: /other/
 title: "Vesuvius Challenge"
 layout: page
 ---
