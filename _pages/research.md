@@ -1,8 +1,8 @@
 ---
-permalink: /research
+permalink: /research/
 title: "Research"
 layout: page
-
+---
 
 # Research interests
 
@@ -21,7 +21,7 @@ To bypass the curse of dimensionality, in my work, I use dimensionality reductio
 [Optimal Protocols for Continual Learning via Statistical Physics and Control Theory, **F. Mori**, S. Sarao Mannelli, and F. Mignacco,  preprint arXiv:2409.18061 (2024)](https://arxiv.org/abs/2409.18061)
 
 
----
+
 
 ## Multimodal Animal Navigation
 
@@ -32,7 +32,7 @@ In collaboration with Prof. Mahadevan (Harvard), we applied this question to the
 [Viscoelastic confinement induces periodic flow reversals in active nematics, **F. Mori**, S. Bhattacharyya, J. M. Yeomans, S. P. Thampi,  Phys. Rev. E 108, 6 (2023)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611)
 
 
----
+
 
 ## Control of Active Materials
 
@@ -43,7 +43,7 @@ In my work, I explored the control mechanisms in active matter systems by tuning
 [Optimal switching strategies for navigation in stochastic settings, **F. Mori** and L. Mahadevan,  preprint arXiv:2311.18813 (2023)](https://arxiv.org/abs/2311.18813)
 
 
----
+
 
 ## Stochastic Thermodynamics
 
