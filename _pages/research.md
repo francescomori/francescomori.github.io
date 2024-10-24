@@ -1,9 +1,9 @@
 ---
 permalink: /research/
 title: "Research"
-layout: page
 author_profile: true
 ---
+
 
 
 # Research interests
