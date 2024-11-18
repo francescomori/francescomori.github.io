@@ -15,9 +15,9 @@ View my Google Scholar profile [here](https://scholar.google.com/citations?user=
 
 20. K. S. Olsen, D. Gupta, **F. Mori**, S. Krishnamurthy. ["Thermodynamic cost of finite-time stochastic resetting,"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033343) *Phys. Rev. Research* **6**, 033343 (2024).
 
-19. A. Mummery, **F. Mori**, and S. Balbus. ["The dynamics of accretion flows near to the innermost stable circular orbit,"](https://academic.oup.com/mnras/article/529/2/1900/6512556) *Mon. Not. R. Astron. Soc.* **529**, 1900 (2024).
+19. A. Mummery, **F. Mori**, and S. Balbus. ["The dynamics of accretion flows near to the innermost stable circular orbit,"](https://academic.oup.com/mnras/article/529/2/1900/7624681) *Mon. Not. R. Astron. Soc.* **529**, 1900 (2024).
 
-18. **F. Mori** and L. Mahadevan. ["Optimal switching strategies for navigation in stochastic settings,"](https://arxiv.org/abs/2311.18813) preprint [arXiv:2311.18813](https://arxiv.org/abs/2311.18813) (2023).
+18. **F. Mori** and L. Mahadevan. ["Optimal switching strategies for navigation in stochastic settings,"](https://arxiv.org/abs/2311.18813) preprint arXiv:2311.18813 (2023).
 
 17. **F. Mori**, S. Bhattacharyya, J. M. Yeomans, and S. P. Thampi. ["Viscoelastic confinement induces periodic flow reversals in active nematics,"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611) *Phys. Rev. E* **108**, 064611 (2023).
 
@@ -33,11 +33,11 @@ View my Google Scholar profile [here](https://scholar.google.com/citations?user=
 
 11. **F. Mori**, S. N. Majumdar, and G. Schehr. ["Time to reach the maximum for a stationary stochastic process,"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054110) *Phys. Rev. E* **106**, 054110 (2022).
 
-10. M. Biroli, **F. Mori**, and S. N. Majumdar. ["Number of distinct sites visited by a resetting random walker,"](https://iopscience.iop.org/article/10.1088/1751-8121/ac01db) *J. Phys. A: Math. Theor.* **55**, 244001 (2022).
+10. M. Biroli, **F. Mori**, and S. N. Majumdar. ["Number of distinct sites visited by a resetting random walker,"](https://iopscience.iop.org/article/10.1088/1751-8121/ac6b69) *J. Phys. A: Math. Theor.* **55**, 244001 (2022).
 
-9. **F. Mori**, G. Gradenigo, and S. N. Majumdar. ["First-order condensation transition in the position distribution of a run-and-tumble particle in one dimension,"](https://iopscience.iop.org/article/10.1088/1742-5468/ac2f10) *J. Stat. Mech.* 103208 (2021).
+9. **F. Mori**, G. Gradenigo, and S. N. Majumdar. ["First-order condensation transition in the position distribution of a run-and-tumble particle in one dimension,"](https://iopscience.iop.org/article/10.1088/1742-5468/ac2899) *J. Stat. Mech.* 103208 (2021).
 
-8. **F. Mori**, S. N. Majumdar, and G. Schehr. ["Distribution of the time of the maximum for stationary processes,"](https://iopscience.iop.org/article/10.1209/0295-5075/135/30003) *Europhys. Lett.* **135**, 30003 (2021). **Highlighted as an Editors' Choice.**
+8. **F. Mori**, S. N. Majumdar, and G. Schehr. ["Distribution of the time of the maximum for stationary processes,"](https://iopscience.iop.org/article/10.1209/0295-5075/ac19ee/pdf) *Europhys. Lett.* **135**, 30003 (2021). **Highlighted as an Editors' Choice.**
 
 7. **F. Mori**, P. Le Doussal, S. N. Majumdar, and G. Schehr. ["Condensation transition in the late-time position of a run-and-tumble particle,"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.103.062134) *Phys. Rev. E* **103**, 062134 (2021).
 
@@ -45,7 +45,7 @@ View my Google Scholar profile [here](https://scholar.google.com/citations?user=
 
 5. **F. Mori**, P. Le Doussal, S. N. Majumdar, and G. Schehr. ["Universal properties of a run-and-tumble particle in arbitrary dimension,"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.042133) *Phys. Rev. E* **102**, 042133 (2020). **Highlighted as an Editors' Suggestion.**
 
-4. B. Lacroix-A-Chez-Toine, **F. Mori**. ["Universal survival probability for a correlated random walk and applications to records,"](https://iopscience.iop.org/article/10.1088/1751-8121/aba99e) *J. Phys. A: Math. Theor.* **53**, 495002 (2020).
+4. B. Lacroix-A-Chez-Toine, **F. Mori**. ["Universal survival probability for a correlated random walk and applications to records,"](https://iopscience.iop.org/article/10.1088/1751-8121/abc129/meta) *J. Phys. A: Math. Theor.* **53**, 495002 (2020).
 
 3. **F. Mori**, P. Le Doussal, S. N. Majumdar, and G. Schehr. ["Universal survival probability for a d-dimensional run-and-tumble particle,"](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.090603) *Phys. Rev. Lett.* **124**, 090603 (2020).
 
