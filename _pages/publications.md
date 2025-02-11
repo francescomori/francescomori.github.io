@@ -9,15 +9,15 @@ author_profile: true
 View my Google Scholar profile [here](https://scholar.google.com/citations?user=3PbdntYAAAAJ&hl=en)
 
 
-22. **F. Mori**, S. Sarao Mannelli, and F. Mignacco. ["Optimal Protocols for Continual Learning via Statistical Physics and Control Theory,"](https://arxiv.org/abs/2409.18061) preprint [arXiv:2409.18061](https://arxiv.org/abs/2409.18061) (2024).
+22. **F. Mori**, S. Sarao Mannelli, and F. Mignacco. ["Optimal Protocols for Continual Learning via Statistical Physics and Control Theory,"](https://arxiv.org/abs/2409.18061) ICLR (2025).
 
-21. **F. Mori**, S. N. Majumdar, and P. Vivo. ["Cost of excursions until first crossing of the origin for random walk and Lévy flights: An exact general formula,"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.043053) *Phys. Rev. Research* **6**, 043053 (2024).
+21. **F. Mori** and L. Mahadevan. ["Optimal switching strategies for navigation in stochastic settings,"](https://arxiv.org/abs/2311.18813) to appear in J. R. Soc. Interface (2025).
 
-20. K. S. Olsen, D. Gupta, **F. Mori**, S. Krishnamurthy. ["Thermodynamic cost of finite-time stochastic resetting,"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033343) *Phys. Rev. Research* **6**, 033343 (2024).
+20. **F. Mori**, S. N. Majumdar, and P. Vivo. ["Cost of excursions until first crossing of the origin for random walk and Lévy flights: An exact general formula,"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.043053) *Phys. Rev. Research* **6**, 043053 (2024).
 
-19. A. Mummery, **F. Mori**, and S. Balbus. ["The dynamics of accretion flows near to the innermost stable circular orbit,"](https://academic.oup.com/mnras/article/529/2/1900/7624681) *Mon. Not. R. Astron. Soc.* **529**, 1900 (2024).
+19. K. S. Olsen, D. Gupta, **F. Mori**, S. Krishnamurthy. ["Thermodynamic cost of finite-time stochastic resetting,"](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.6.033343) *Phys. Rev. Research* **6**, 033343 (2024).
 
-18. **F. Mori** and L. Mahadevan. ["Optimal switching strategies for navigation in stochastic settings,"](https://arxiv.org/abs/2311.18813) preprint arXiv:2311.18813 (2023).
+18. A. Mummery, **F. Mori**, and S. Balbus. ["The dynamics of accretion flows near to the innermost stable circular orbit,"](https://academic.oup.com/mnras/article/529/2/1900/7624681) *Mon. Not. R. Astron. Soc.* **529**, 1900 (2024).
 
 17. **F. Mori**, S. Bhattacharyya, J. M. Yeomans, and S. P. Thampi. ["Viscoelastic confinement induces periodic flow reversals in active nematics,"](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611) *Phys. Rev. E* **108**, 064611 (2023).
 
