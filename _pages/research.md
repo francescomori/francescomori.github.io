@@ -14,9 +14,11 @@ Beyond the classical forward approach, I also address _inverse problems_, explor
 
 In machine learning, various optimization methods are introduced at different stages of the pipeline to improve performance. These include the dynamic selection of training examples and tasks (e.g., curriculum learning), adaptive hyperparameters (e.g., learning rate schedules), and dynamic architectures. While these strategies accelerate training, they often rely on trial-and-error heuristics that lack a theoretical foundation. A key challenge is that standard optimal control techniques, which could optimize these hyperparameters, are limited by the curse of dimensionality. At the same time, learning problems are inherently high-dimensional. 
 
-To bypass the curse of dimensionality, in my work, I use dimensionality reduction techniques from statistical physics, identifying reduced (but exact!) description of the learning process where optimal control can be directly applied. We have recently applied this idea to the problem of _continual learning_, where a neural network has to learn and remember multiple tasks. Many more exciting applications are to come! 
+To bypass the curse of dimensionality, in my work, I use dimensionality reduction techniques from statistical physics, identifying reduced (but exact!) description of the learning process where optimal control can be directly applied. We have applied this idea to a variety of problems, including _continual learning_, _curriculum learning_, and _dropout regularization_. Many more exciting applications are to come! 
 
-[ **F. Mori**, S. Sarao Mannelli, and F. Mignacco, Optimal Protocols for Continual Learning via Statistical Physics and Control Theory,  preprint arXiv:2409.18061 (2024)](https://arxiv.org/abs/2409.18061)
+[ F. Mignacco and **F. Mori**, A statistical physics framework for optimal learning,  preprint arXiv:2507.07907 (2025)](https://arxiv.org/pdf/2507.07907)
+
+[ **F. Mori**, S. Sarao Mannelli, and F. Mignacco, Optimal Protocols for Continual Learning via Statistical Physics and Control Theory,  ICLR 2025](https://arxiv.org/abs/2409.18061)
 
 
 <img src="/images/loss_comparison.jpg" alt="Continual Learning" width="500"/>
