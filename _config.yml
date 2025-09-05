@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Francesco Mori"
 title_separator          : "-"
 name                     : &name "Francesco Mori"
-description              : &description "Leverhulme-Peierls Fellow, University of Oxford"
+description              : &description "Research Associate, Harvard University"
 url                      : https://francescomori.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "francescomori/francescomori.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "FrancescoMori.jpg"
   name             : "Francesco Mori"
   pronouns         : # example: "she/her"  
-  bio              : "Leverhulme-Peierls Fellow, University of Oxford"
-  location         : "Oxford, UK"
-  employer         : "University of Oxford"
+  bio              : "Research Associate, Harvard University"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "francesco.mori@physics.ox.ac.uk" 
+  email            : "francesco@cmsa.fas.harvard.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
