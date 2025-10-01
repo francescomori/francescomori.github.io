@@ -12,7 +12,7 @@ View my Google Scholar profile [here](https://scholar.google.com/citations?user=
 
 24. R. J. Ewart, P. Reichherzer, S. Ren, S. Majeski, **F. Mori**, M. L. Nastac, A. F. A. Bott, M. W. Kunz, and A. A. Schekochihin ["Cosmic-ray transport in inhomogeneous media,"](https://arxiv.org/abs/2507.19044) preprint arXiv:2507.19044 (2025).
 
-23. **F. Mori** and F. Mignacco. ["Analytic theory of dropout regularization,"](https://arxiv.org/html/2505.07792v1) preprint arXiv:2505.07792 (2025).
+23. **F. Mori** and F. Mignacco. ["Analytic theory of dropout regularization,"](https://arxiv.org/html/2505.07792v1) *Phys. Rev. E*  **112**, 045301 (2025).
 
 22. **F. Mori**, S. Sarao Mannelli, and F. Mignacco. ["Optimal Protocols for Continual Learning via Statistical Physics and Control Theory,"](https://arxiv.org/abs/2409.18061) ICLR (2025).
 
