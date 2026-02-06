@@ -8,7 +8,7 @@ author_profile: true
 
 View my Google Scholar profile [here](https://scholar.google.com/citations?user=3PbdntYAAAAJ&hl=en)
 
-26. B. Bordelon and **F. Mori**. ["Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model,"](https://arxiv.org/abs/2602.04774) preprint https://arxiv.org/abs/2602.04774 (2026).
+26. B. Bordelon and **F. Mori**. ["Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model,"](https://arxiv.org/abs/2602.04774) preprint arXiv:2602.04774 (2026).
 
 25. R. J. Ewart, P. Reichherzer, S. Ren, S. Majeski, **F. Mori**, M. L. Nastac, A. F. A. Bott, M. W. Kunz, and A. A. Schekochihin ["Cosmic-ray transport in inhomogeneous media,"](https://arxiv.org/abs/2507.19044) Mon. Not. R. Astron. Soc. **545**, 2 (2026).
 
