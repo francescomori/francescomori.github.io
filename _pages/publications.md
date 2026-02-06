@@ -8,9 +8,11 @@ author_profile: true
 
 View my Google Scholar profile [here](https://scholar.google.com/citations?user=3PbdntYAAAAJ&hl=en)
 
-25. F. Mignacco and **F. Mori**. ["A statistical physics framework for optimal learning,"](https://arxiv.org/abs/2507.07907) preprint arXiv:2507.07907 (2025).
+26. B. Bordelon and **F. Mori**. ["Theory of Optimal Learning Rate Schedules and Scaling Laws for a Random Feature Model,"](https://arxiv.org/abs/2602.04774) preprint https://arxiv.org/abs/2602.04774 (2026).
 
-24. R. J. Ewart, P. Reichherzer, S. Ren, S. Majeski, **F. Mori**, M. L. Nastac, A. F. A. Bott, M. W. Kunz, and A. A. Schekochihin ["Cosmic-ray transport in inhomogeneous media,"](https://arxiv.org/abs/2507.19044) preprint arXiv:2507.19044 (2025).
+25. R. J. Ewart, P. Reichherzer, S. Ren, S. Majeski, **F. Mori**, M. L. Nastac, A. F. A. Bott, M. W. Kunz, and A. A. Schekochihin ["Cosmic-ray transport in inhomogeneous media,"](https://arxiv.org/abs/2507.19044) Mon. Not. R. Astron. Soc. **545**, 2 (2026).
+
+24. F. Mignacco and **F. Mori**. ["A statistical physics framework for optimal learning,"](https://arxiv.org/abs/2507.07907) preprint arXiv:2507.07907 (2025).
 
 23. **F. Mori** and F. Mignacco. ["Analytic theory of dropout regularization,"](https://arxiv.org/html/2505.07792v1) *Phys. Rev. E*  **112**, 045301 (2025).
 
