@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research Interests"
+title: "Research"
 author_profile: true
 ---
 
@@ -21,19 +21,19 @@ To bypass the curse of dimensionality, in my work, I use dimensionality reductio
 [ **F. Mori**, S. Sarao Mannelli, and F. Mignacco, Optimal Protocols for Continual Learning via Statistical Physics and Control Theory,  ICLR 2025](https://arxiv.org/abs/2409.18061)
 
 
-<img src="/images/loss_comparison.jpg" alt="Continual Learning" width="500"/>
+<img src="/images/loss_comparison.jpg" alt="Continual Learning" style="max-width:100%; height:auto; width:500px;"/>
 
 
 ## Multimodal Animal Navigation
 
-Similar challenges arise in biological systems, where animals continuously adapt their learning and navigation strategies to complex, dynamic environments. Like artificial systems, biological learners must acquire new knowledge over time while avoiding the loss of previously learned information. Moreover, they have to _actively_ sense their environment to make decisions under uncertain conditions. In my work, I try to identifying learning and navigation principles, specifically on how to optimally combine multiple sources of information.
+Similar challenges arise in biological systems, where animals continuously adapt their learning and navigation strategies to complex, dynamic environments. Like artificial systems, biological learners must acquire new knowledge over time while avoiding the loss of previously learned information. Moreover, they have to _actively_ sense their environment to make decisions under uncertain conditions. In my work, I try to identify learning and navigation principles, specifically on how to optimally combine multiple sources of information.
 
 In collaboration with Prof. Mahadevan (Harvard), we applied this question to the well-studied rolling behavior of dung beetles (see video [here](https://www.youtube.com/watch?v=w1XL711elDA)), which use different sensory cues to orient. By modeling optimal switching strategies, we found that noisier environments favor more frequent reorientations, a result that may generalize to other multi-modal navigation systems.
 
 [**F. Mori** and L. Mahadevan, Optimal switching strategies for navigation in stochastic settings, preprint arXiv:2311.18813 (2023)](https://arxiv.org/abs/2311.18813)
 
 
-<img src="/images/fig_new_scale.jpg" alt="Animal Navigation" width="500"/>
+<img src="/images/fig_new_scale.jpg" alt="Animal Navigation" style="max-width:100%; height:auto; width:500px;"/>
 
 
 ## Control of Active Materials
@@ -45,7 +45,7 @@ In my work, I explored the control mechanisms in active matter systems by tuning
 [**F. Mori**, S. Bhattacharyya, J. M. Yeomans, S. P. Thampi, Viscoelastic confinement induces periodic flow reversals in active nematics, Phys. Rev. E 108, 6 (2023)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.064611)
 
 
-<img src="/images/SchemeNew.jpg" alt="Active Matter" width="500"/>
+<img src="/images/SchemeNew.jpg" alt="Active Matter" style="max-width:100%; height:auto; width:500px;"/>
 
 
 ## Stochastic Thermodynamics
@@ -57,6 +57,6 @@ In my research on the stochastic thermodynamics of low-dimensional systems, I de
 [**F. Mori**, K. S. Olsen, and S. Krishnamurthy, Entropy production of resetting processes, Phys. Rev. Research 5, 023103 (2023)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.023103)
 
 
-<img src="/images/trajectory_page.jpg" alt="Active Matter" width="500"/>
+<img src="/images/trajectory_page.jpg" alt="Active Matter" style="max-width:100%; height:auto; width:500px;"/>
 
 
